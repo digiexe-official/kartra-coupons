@@ -4,7 +4,7 @@ Suppose you're running an online business or managing a membership site. In that
 
 ---
 
-🎁 ## What Are Kartra Coupons?
+## 🎁 What Are Kartra Coupons?
 
 Kartra Coupons are discount codes that allow businesses to offer promotions on their products and services. With Kartra, you can create and manage these discount coupons directly from your dashboard. Whether you're offering a percentage off a product or a fixed discount, Kartra provides the tools to implement various coupon strategies with ease.
 
@@ -14,7 +14,7 @@ Kartra Coupons are discount codes that allow businesses to offer promotions on t
 
 Want to experience Kartra’s powerful all-in-one marketing platform? Get a **30-day free trial** to test out all the features, including email marketing, landing pages, sales funnels, and more!
 
-## 🔗 [**Claim Your Free 30-Day Trial**](https://www.bytegain.com/Recommended/kartra/)  
+🔗 [**Claim Your Free 30-Day Trial**](https://www.bytegain.com/Recommended/kartra/)  
 Start your free trial today and see why Kartra is the best platform for your business.
 
 ---
@@ -75,7 +75,7 @@ Get more for less and grow your business with Kartra today.
 **Note**: These links will direct users to the official Kartra website. Be sure to check their terms and conditions for full details on each offer.
 
 
-🔥 ## How To Use Kartra Coupon?
+## 🔥How To Use Kartra Coupon?
 
 1. Visit the official Kartra site and choose the plan you want to use.
 2. Choose from above coupons & apply at the checkout.
@@ -89,7 +89,7 @@ You can watch the full tutorial on Kartra Coupons by clicking the video below:
 
 Click the image to watch the video on YouTube.
 
-🚀  ## **Key Features of Kartra Coupons**:
+## 🚀 **Key Features of Kartra Coupons**:
 
 - **Customizable Discount Types**: Create percentage discounts, fixed amount discounts, and free trials.
 - **Easy Setup**: Use the drag-and-drop editor to set up your discount coupons in minutes.
